@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.bengalurubhavan.com/sitemap.xml
+Sitemap: https://bengaluru-bhavan-bhimavaram.netlify.app/sitemap.xml
